@@ -1,3 +1,9 @@
+// magic numbers
+// nomes
+// ifs/else aninhados ou desnecessários
+// linhas em branco
+// excesso de responsabilidade (SRP)
+
 // calculate ride
 exports.calc = function(dist, d) {
 
